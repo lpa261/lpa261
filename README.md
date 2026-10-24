@@ -1,53 +1,65 @@
-# Hi there 👋, I'm Anh Le (anhle7666)  
-**`IT Enthusiast | Frontend Developer & UX Designer`**
+<!-- Profile README for github.com/lpa261. Banner is maintained in this repository. -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/anhle7666)
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Phuc Anh Le — Infrastructure. Code. Experience." width="100%" />
+</p>
 
-## 👨💻 About Me
-- 🔍 Actively seeking opportunities in **IT Industry**  
-- 🎯 Passionate about creating user-centric solutions through **Frontend Development** and **UX Design**  
-- 📊 Transitioning to **Data Analysis** with focus on practical implementation  
-- 🌱 "*Learning to build, designing to impact*"
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#featured-project">Featured project</a> &nbsp;·&nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
+  <a href="#currently-exploring">Exploring</a> &nbsp;·&nbsp;
+  <a href="mailto:anhle7666@gmail.com">Contact</a>
+</p>
 
-## 🛠️ Technical Toolkit
-**Frontend Development**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+## About
 
-**Design & UX**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white)
+Hi, I'm **Phuc Anh** — you can call me **Aaron**. I'm an IT infrastructure professional in Vietnam who enjoys building software and exploring UX design.
 
-**Backend Tools**  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+My background includes **3 years supporting IT infrastructure across 24 cinema locations**: networks, firewalls, POS systems, office devices, and digital cinema equipment. That work shaped how I approach software: understand the problem, make the workflow clear, and troubleshoot when things go wrong.
 
-## 🚀 Featured Projects
-### 💸 Expense Manager Pro
-- Personal finance tracker implementing **50-30-20 budgeting rule**
-- Stack: `React + TypeScript + Express + MongoDB`
+These days, I'm bringing that mindset to **Linux desktop tools**, with a growing interest in C, native interfaces, and thoughtful product design.
 
-### 📱 TaskFlow Mobile App
-- Productivity booster with JWT authentication
-- Stack: `React Native + Node.js + Mongoose`
+## Featured project
 
-### 🎨 UX-Centric Mini Apps
-- Collection of interactive prototypes focusing on user experience
-- Tools: `Figma + Adobe XD + React Spring`
+### [TeraConvert ↗](https://github.com/lpa261/tera-converter)
 
-## 📚 Learning Journey
-- **Google UX Design Professional Certificate** (In Progress)
-- **Data Analysis** Fundamentals (SQL/Python/Power BI)
-- Technical Writing & Documentation
+**File conversion, optimization, and Quick Look — right inside GNOME Files.**
 
-## 🌟 Career Aspirations
-- Short-term: Build impactful projects in **UX Design** & **Data Visualization**
-- Long-term: Become T-shaped professional bridging **Frontend Development** & **Data Analysis**
+A Linux desktop project that brings everyday file actions into the Nautilus context menu, with a separate viewer for quick previews.
 
-📫 Let's connect!  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+- **Convert** images, audio, video, and supported documents using local processing.
+- **Optimize** supported files with validation tailored to each backend.
+- **Preview** supported images, text, PDFs, and media through a GTK4 interface.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhle7666&show_icons=true&theme=transparent)
+**Built with:** `C11` · `GLib / GIO` · `GTK4` · `libadwaita` · `Meson`  
+**Integrations:** `Nautilus` · `FFmpeg` · `libvips` · `Poppler`
+
+*Actively in development. Format support and available features depend on installed backends.*
+
+[Explore the source →](https://github.com/lpa261/tera-converter) &nbsp; [Read the documentation →](https://github.com/lpa261/tera-converter#readme)
+
+## Toolkit
+
+| Area | Hands-on experience & current tools |
+| :--- | :--- |
+| **Infrastructure** | LAN/WAN troubleshooting, FortiGate, Cisco & TP-Link switching, network cabling |
+| **IT support** | POS systems, PCs, printers, CCTV, preventive maintenance, vendor coordination |
+| **Digital cinema** | Christie projection systems, Dolby & QSC audio systems |
+| **Current development** | C, GLib/GIO, GTK4, libadwaita, Meson, Git |
+| **Design & experiments** | Figma, UX prototyping, Linux desktop workflows, personal homelab |
+
+## Currently exploring
+
+- **Native Linux development** — C, desktop integration, and responsive interfaces.
+- **Practical UX** — making frequent actions easier to find and use.
+- **Homelab projects** — experimenting with infrastructure and self-hosted services.
+
+---
+
+<p align="center">
+  <b>Have a useful problem to solve?</b><br />
+  I'm happy to talk about IT infrastructure, Linux tools, and practical software ideas.<br /><br />
+  <a href="mailto:anhle7666@gmail.com">Email me</a> &nbsp;·&nbsp;
+  <a href="https://github.com/lpa261?tab=repositories">Browse my projects</a>
+</p>
