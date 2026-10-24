@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Phuc Anh Le — Infrastructure. Code. Experience.</title>
+  <desc id="desc">Dark portfolio banner with mint accents and an abstract server and application window illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c2b"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#69e3bd"/><stop offset="1" stop-color="#68b6ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M48 0H1152" stroke="url(#line)" stroke-width="3"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <rect x="56" y="48" width="125" height="30" rx="15" fill="#69e3bd" fill-opacity=".1" stroke="#69e3bd" stroke-opacity=".3"/>
+    <circle cx="74" cy="63" r="4" fill="#69e3bd"/>
+    <text x="87" y="68" font-size="13" fill="#9af0d3" letter-spacing="1.6">LPA261</text>
+    <text x="54" y="146" font-size="53" font-weight="700" fill="#f0f6fc" letter-spacing="-1.7">Phuc Anh Le</text>
+    <text x="57" y="191" font-size="24" fill="#b9c8da">Infrastructure. Code. Experience.</text>
+    <text x="57" y="240" font-size="17" fill="#8c9eb3">Keeping systems running. Building tools that help.</text>
+    <text x="57" y="303" font-size="12" fill="#69e3bd" letter-spacing="2.3">IT INFRASTRUCTURE / LINUX / PRODUCT DESIGN</text>
+  </g>
+  <g transform="translate(810 73)">
+    <rect x="0" y="30" width="160" height="194" rx="15" fill="#101925" stroke="#314257"/>
+    <g fill="#172435" stroke="#314257">
+      <rect x="16" y="48" width="128" height="42" rx="7"/>
+      <rect x="16" y="102" width="128" height="42" rx="7"/>
+      <rect x="16" y="156" width="128" height="42" rx="7"/>
+    </g>
+    <g fill="#69e3bd"><circle cx="34" cy="69" r="4"/><circle cx="34" cy="123" r="4"/><circle cx="34" cy="177" r="4"/></g>
+    <g stroke="#52657d" stroke-width="3" stroke-linecap="round"><path d="M53 69H123"/><path d="M53 123H123"/><path d="M53 177H95"/></g>
+    <rect x="94" y="0" width="221" height="152" rx="13" fill="#122230" stroke="#4d7c83"/>
+    <path d="M95 33H314" stroke="#314b5d"/>
+    <g fill="#60758c"><circle cx="111" cy="17" r="3"/><circle cx="123" cy="17" r="3"/><circle cx="135" cy="17" r="3"/></g>
+    <path d="m149 68-17 16 17 16m109-32 17 16-17 16m-42-38-20 45" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M133 128H276" stroke="#314b5d" stroke-width="4" stroke-linecap="round"/>
+    <rect x="198" y="181" width="114" height="41" rx="20" fill="#69e3bd"/>
+    <text x="255" y="207" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#0d211c">BUILD / LEARN</text>
+  </g>
+</svg>
